@@ -2,6 +2,15 @@
 
 export const data = [
     {
+        title: 'Aryan Gupta Portfolio',
+        author: 'Aryan Gupta',
+        description: 'Hey there! I am Aryan Gupta , a passionate and enthusiastic sophomore at BVCOE (Bharati Vidyapeeth College of Engineering) with a projected graduation year of 2026. I am thrilled to share my journey and showcase my skills in the world of technology and problem-solving.',
+        url: 'https://media.licdn.com/dms/image/D5603AQGDNYL2JsG1aw/profile-displayphoto-shrink_400_400/0/1705257329712?e=2147483647&v=beta&t=uSI8V53lq_-y8QM6qmOwIlJjfq8sYM4N-TvnK3g4k6g',
+        timestamp: '2021-09-04T03:55:14.000Z',
+        link: 'https://aryangupta005.netlify.app/',
+        publisher: 'Aryan Gupta'
+    },
+    {
         title: 'Man stabs TN Police sub-inspector over month-old fine for drunk driving',
         author: 'Shreyasi Banerjee',
         description: 'A female Tamil Nadu Police sub-inspector was injured after she was stabbed by a man while on duty in Tirunelveli. Police reportedly claimed the accused was enraged as the sub-inspector had booked him one month ago for drunk driving. The accused has been arrested, CM MK Stalin said, adding that he has ordered a high-quality medical treatment for the sub-inspector.',
@@ -100,17 +109,9 @@ export const data = [
         timestamp: '2021-09-04T03:55:14.000Z',
         link: 'https://www.manutd.com/en/amp/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
         publisher: 'Man Utd'
-    },
-    
-    {
-        title: 'Cwfwefdwefwefrrr42',
-        author: 'Anmol Sharmadededed',
-        description: 'Manchester United 2dfdefwcsefghave confirmed that Cristiano Ronaldo will wear the number seven jersey after returning to Old Trafford. The five-time Ballon dOr wore the shirt number during his first spell with the club from 2003-2009. It has previously been worn by club legends like George Best, Bryan Robson, Eric Cantona and David Beckham. Ronaldo inherited the number from Edinson Cavani.',
-        url: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F77%2FGoogle_Images_2015_logo.svg%2F1200px-Google_Images_2015_logo.svg.png&tbnid=A6gWDalLJoabaM&vet=12ahUKEwiU0NOC386EAxWCa2wGHfgkCsIQMygAegQIARBr..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&docid=qfPPp-mRFi6Y6M&w=1200&h=412&q=google%20images&ved=2ahUKEwiU0NOC386EAxWCa2wGHfgkCsIQMygAegQIARBr',
-        timestamp: '2021-09-04T03:55:14.000Z',
-        link: 'https://www.manutd.com/en/amp/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
-        publisher: 'Man Utd'
     }
+    
+    
     
 
     
