@@ -16,7 +16,9 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json({ extended: true }));
 app.use('/', Routes);
-
+app.get('/hello', (req, res) =>{
+    res.send('server running')
+})
 const username = process.env.DB_USERNAME;
 const password = process.env.DB_PASSWORD;
 const PORT = 3001;
